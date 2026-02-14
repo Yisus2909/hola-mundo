@@ -1,4 +1,4 @@
-﻿print("Hola Mundo")
+﻿print("Hola gente")
 
 print("Este es un texto para la rama ejemplo")
 
