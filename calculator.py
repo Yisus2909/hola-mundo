@@ -14,3 +14,6 @@ def division(a,b):
         print("ERROR: No se puede dividir entre 0")
     else:
         return a/b
+    
+def modulo(a,b):
+    return a%b
